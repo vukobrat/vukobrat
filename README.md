@@ -8,6 +8,7 @@ Full-stack Python/Java/JavaScript <a href="https://resume.io/r/QBkF8R963">test a
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
+   <img alt="Playwright" src="https://img.shields.io/badge/-playwright-%23E5E5E5?style=for-the-badge&logo=playwright&logoColor=green"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
